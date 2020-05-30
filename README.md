@@ -19,4 +19,8 @@ language, research, etc). It is inspired by the following anecdote.
 2) If you press space the timer pauses
 3) If you press space again the timer resumes
 
-That's it!
+That's it! At least initially. Other planned features are:
+
+- making it usable as a physical interface with a microcontroller
+- multiple timer
+- persistent state
